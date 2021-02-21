@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HLC_03</string>
+    <string name="dolores_a_euros">Dolores a euros</string>
+    <string name="euros_a_dolares">Euros a dolares</string>
+    <string name="doloares">Doloares</string>
+    <string name="euros">Euros</string>
+    <string name="convertir">Convertir</string>
+    <string name="dolares">Dolares</string>
+</resources>
